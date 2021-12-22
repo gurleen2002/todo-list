@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="welcome">WELCOME</string>
+    <string name="todo">TODO</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="my_list">MY LIST</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_3">Task 3</string>
+    <string name="task_2">Task 2</string>
+</resources>
